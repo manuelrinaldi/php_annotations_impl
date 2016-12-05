@@ -8,7 +8,7 @@
  */
 
 
-define(ANNOTATION, "annotation");
+define("ANNOTATION", "annotation");
 
 trait AnnotationUtilities
 {

@@ -62,3 +62,7 @@ Still need some imporvements but the potential of Annotations is big!!
 
 Any interested in helping to make it better is welcome!!
 
+In case you don't have php 5.4 you can still use it by moving all the code from the trait which is used by the abstract class AbstractAnnotation directly in the class and removing the use keyword.
+
+
+
